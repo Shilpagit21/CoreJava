@@ -6,6 +6,6 @@ public class AbstractChild extends AbstractionExample {
 	public void method2() {
 		//todo auto-generated method STUB
 		
-		System.out.println("Inside Method2");
+		System.out.println("Inside the Method2");
 	}
 }
