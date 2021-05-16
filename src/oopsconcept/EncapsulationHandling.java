@@ -8,7 +8,7 @@ public class EncapsulationHandling {
 		double a = 10;
 		double b =  0;
 		
-		double result = a/b;
+		double result = a/b; //formula for division
 		
 		System.out.println(result);
 	}
