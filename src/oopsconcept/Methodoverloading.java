@@ -6,7 +6,7 @@ public class Methodoverloading {
 		
 		int sum = a+b;
 		
-		System.out.println("Int output " + sum);
+		System.out.println("Int output " + sum); //method overloading java class
 	}
 	
 public void add(double a, double b) {
